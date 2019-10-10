@@ -82,16 +82,6 @@
        id="path346" />
     <path
        inkscape:connector-curvature="0"
-       d="m 617.32361,108.73917 -44.22298,-7.7e-4 m 44.22298,7.7e-4 -5e-5,-36.286261 m -44.22293,36.285491 6.5e-4,-36.282323 m 0,0 44.22228,-0.0032"
-       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path338" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 563.32358,122.91352 -44.222,-9.5e-4 m 44.222,9.5e-4 -5e-5,-36.286263 m -44.22195,36.285313 -8.5e-4,-36.2851 m 0,0 44.2228,-2.13e-4"
-       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path330" />
-    <path
-       inkscape:connector-curvature="0"
        d="m 563.3215,176.91326 -44.21788,-6.6e-4 m 44.21788,6.6e-4 1.3e-4,-36.28528 m -44.21801,36.28462 -10e-4,-36.28609 m 0,0 44.21904,0.001"
        style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path322" />
@@ -175,11 +165,6 @@
        d="m 455.32071,253.72941 -44.21835,0.002 m 44.21835,-0.002 6.5e-4,-36.28233 m -44.219,36.2848 1.3e-4,-36.28528 m 0,0 44.21887,4.8e-4"
        style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path181" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 671.32291,100.23306 -44.22229,0.003 m 44.22229,-0.003 6.5e-4,-36.282319 m -44.22294,36.285489 -4e-5,-36.28626 m 0,0 44.22298,7.71e-4"
-       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path394" />
     <path
        inkscape:connector-curvature="0"
        d="m 671.32083,154.2328 -44.21817,0.003 m 44.21817,-0.003 8.3e-4,-36.28134 m -44.219,36.2848 -4e-5,-36.28626 m 0,0 44.21904,10e-4"
