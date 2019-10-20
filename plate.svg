@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3636354"
-     inkscape:cx="198.29621"
-     inkscape:cy="222.57763"
+     inkscape:zoom="0.9452239"
+     inkscape:cx="238.88414"
+     inkscape:cy="270.36901"
      inkscape:document-units="in"
      inkscape:current-layer="g2776"
      inkscape:document-rotation="0"
@@ -209,19 +209,25 @@
              y="38.237759" />
         </g>
         <ellipse
-           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.276;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
            id="path1222"
            cx="84.137291"
-           cy="55.861088"
-           rx="1.5323093"
-           ry="1.5323091" />
+           cy="55.830406"
+           rx="1.5029446"
+           ry="1.5041409" />
+        <ellipse
+           ry="1.5041409"
+           rx="1.5029446"
+           cy="55.830406"
+           cx="12.239995"
+           id="path1222-5"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+        <path
+           transform="matrix(0.26458333,0,0,0.26458333,-20.640359,-19.100171)"
+           d="M 282.52734 22.943359 L 138.53711 60.720703 L 137.61523 267.11523 C 137.48155 267.11135 137.35146 267.0957 137.2168 267.0957 L 120.92578 267.0957 C 113.48991 267.0957 107.50195 273.06268 107.50195 280.47461 L 107.50195 294.13281 C 107.50195 294.62597 107.53427 295.11081 107.58594 295.58984 L 66.517578 295.59766 L 66.537109 368.00391 L 149.47266 368.02734 L 509.48242 277.10547 L 509.48242 60.720703 L 365.47266 22.943359 L 282.52734 22.943359 z "
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="rect1309" />
       </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 17.596909,74.793262 36.374531,74.789862 36.6522,12.6492 74.749552,2.6538622 h 21.9456 L 134.7978,12.6492 V 69.9008 L 39.545152,93.957362 17.6022,93.951162 Z"
-         id="path632"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccc" />
     </g>
   </g>
 </svg>
