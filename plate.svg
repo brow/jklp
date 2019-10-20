@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7302208"
-     inkscape:cx="198.03487"
-     inkscape:cy="227.86747"
+     inkscape:zoom="1.3636354"
+     inkscape:cx="198.29621"
+     inkscape:cy="222.57763"
      inkscape:document-units="in"
-     inkscape:current-layer="g814"
+     inkscape:current-layer="g2776"
      inkscape:document-rotation="0"
      showgrid="false"
      units="in"
      inkscape:window-width="1440"
      inkscape:window-height="855"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="24"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata118">
@@ -208,6 +208,13 @@
              x="0.137758"
              y="38.237759" />
         </g>
+        <ellipse
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.276;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="path1222"
+           cx="84.137291"
+           cy="55.861088"
+           rx="1.5323093"
+           ry="1.5323091" />
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
