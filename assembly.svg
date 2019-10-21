@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(2.2491717,-5.7009285)"
-     style="display:none">
+     style="display:inline">
     <g
        id="g1017"
        transform="translate(61.8848,23.879996)">
@@ -233,54 +233,34 @@
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect1309" />
     </g>
-    <g
-       id="g3573">
-      <use
-         height="100%"
-         width="100%"
-         transform="rotate(-20,459.94965,-27.411643)"
-         id="use3567"
-         xlink:href="#g1017"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(-1,0,0,1,234.88888,0)"
-         id="use3569"
-         xlink:href="#use3567"
-         y="0"
-         x="0" />
-    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1017"
+       id="use3567"
+       transform="rotate(-20,459.94965,-27.411643)"
+       width="100%"
+       height="100%"
+       style="opacity:1;stop-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3567"
+       id="use3569"
+       transform="matrix(-1,0,0,1,234.88888,0)"
+       width="100%"
+       height="100%"
+       style="opacity:1;stop-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Frame"
      style="display:inline">
-    <g
-       transform="translate(2.2491717,-5.7009284)"
-       id="g3633"
-       style="display:inline;stroke:#2e1bed;stroke-opacity:1">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3627"
-         d="m 113.37735,150.49978 -21.20859,58.36447 17.85328,6.55262 -4.38046,12.03522 L 90.983258,222.1169 37.712315,185.69103 6.9641768,174.46506 24.375608,126.62755 l 22.350084,-5.70788 19.611245,1.81702 14.658324,5.33519 16.191042,11.21395 z"
-         style="fill:none;stroke:#2e1bed;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccccccccccccc" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3629"
-         d="m 25.21742,115.03636 39.223293,3.63938 20.622445,7.50596 32.381282,22.42255 32.38128,-22.42255 20.62244,-7.50596 39.2233,-3.63938 22.31727,61.31619 -84.01637,47.66684 -20.62214,7.49925 H 107.53865 L 86.916519,224.01939 2.9001517,176.35255 Z"
-         style="fill:none;stroke:#2e1bed;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(-1,0,0,1,234.88888,-1.4140567e-6)"
-         id="use873"
-         xlink:href="#path3627"
-         y="0"
-         x="0" />
-    </g>
+    <path
+       transform="scale(0.26458333)"
+       d="M 103.81055 413.23633 L 19.462891 644.98242 L 337.00391 825.14062 L 414.94531 853.48438 L 489.82422 853.48438 L 567.76562 825.14062 L 885.30859 644.98242 L 800.95898 413.23633 L 652.71484 426.99219 L 574.77148 455.36133 L 452.38477 540.10742 L 330 455.36133 L 252.05664 426.99219 L 103.81055 413.23633 z M 185.10156 435.47266 L 259.22266 442.33984 L 314.625 462.50391 L 375.81836 504.88867 L 437.01367 547.27148 L 356.85547 767.86133 L 424.33203 792.62695 L 407.77539 838.11523 L 352.375 817.94922 L 151.03516 680.27734 L 34.822266 637.84961 L 100.62891 457.04492 L 185.10156 435.47266 z M 719.66797 435.47266 L 804.14062 457.04492 L 869.94922 637.84961 L 753.73438 680.27734 L 552.39648 817.94922 L 496.99414 838.11523 L 480.4375 792.62695 L 547.91602 767.86133 L 467.75781 547.27148 L 528.95117 504.88867 L 590.14648 462.50391 L 645.54688 442.33984 L 719.66797 435.47266 z "
+       style="opacity:1;fill:none;stroke:#2e1bed;stroke-width:0.99999899999999997px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stop-opacity:1;fill-opacity:1"
+       id="path3627" />
   </g>
 </svg>
