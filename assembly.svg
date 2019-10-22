@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89952176"
-     inkscape:cx="454.36445"
-     inkscape:cy="489.77206"
+     inkscape:zoom="0.86719609"
+     inkscape:cx="510.52262"
+     inkscape:cy="503.50057"
      inkscape:document-units="mm"
      inkscape:current-layer="g1017"
      inkscape:document-rotation="0"
@@ -53,6 +53,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="g2153"
      inkscape:label="Arduino Micro"
@@ -77,7 +78,7 @@
        width="15.24"
        height="26.67"
        x="112.07362"
-       y="176.49478" />
+       y="174.37814" />
   </g>
   <g
      sodipodi:insensitive="true"
@@ -93,6 +94,7 @@
        id="path3627" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:label="Plate"
      inkscape:groupmode="layer"
      id="layer1"
@@ -258,11 +260,10 @@
          id="path1222-5"
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
       <path
-         sodipodi:nodetypes="cccccccccc"
+         sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
-         transform="matrix(0.26458333,0,0,0.26458333,-20.640359,-19.100171)"
-         d="M 282.52734,22.943359 138.53711,60.720703 137.48855,295.584 l -70.970972,0.0137 0.01953,72.40625 82.935552,0.0234 360.00976,-60.68746 V 60.720703 L 365.47266,22.943359 Z"
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.01493,44.2698665 -6.54987,18.153475 -12.606258,0.0019 0.00519,19.243983 22.042439,0.0062 95.682647,-16.129387 V -3.1954755 L 76.150163,-13.23586 Z"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.300002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect1309" />
       <circle
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -270,6 +271,12 @@
          cx="78.890663"
          cy="63.620098"
          r="1.27" />
+      <circle
+         r="1.27"
+         cy="55.149212"
+         cx="15.355494"
+         id="circle886"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
     </g>
     <g
        style="opacity:1;stop-opacity:1"
