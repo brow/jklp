@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4007554"
-     inkscape:cx="368.38643"
-     inkscape:cy="406.75905"
+     inkscape:zoom="0.76006926"
+     inkscape:cx="11.420625"
+     inkscape:cy="353.55944"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1017"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="5"
@@ -81,15 +81,15 @@
        y="174.37814" />
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Frame"
      style="display:inline;opacity:0.538462">
     <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
        transform="scale(0.26458333)"
-       d="m 103.81055,413.23633 -84.347659,231.74609 317.541019,180.1582 77.9414,28.34376 h 74.87891 L 567.76562,825.14062 885.30859,644.98242 800.95898,413.23633 652.71484,426.99219 574.77148,455.36133 452.38477,540.10742 330,455.36133 252.05664,426.99219 Z m 81.29101,22.23633 74.1211,6.86718 55.40234,20.16407 61.19336,42.38476 61.19531,42.38281 -80.1582,220.58985 67.47656,24.76562 -16.55664,45.48828 L 352.375,817.94922 151.03516,680.27734 34.822266,637.84961 100.62891,457.04492 Z m 534.56641,0 84.47265,21.57226 65.8086,180.80469 -116.21484,42.42773 -201.3379,137.67188 -55.40234,20.16601 -16.55664,-45.48828 67.47852,-24.76562 -80.15821,-220.58985 61.19336,-42.38281 61.19531,-42.38476 55.4004,-20.16407 z"
+       d="m 103.81055,413.23633 -92.172353,253.09168 325.365713,158.81261 77.9414,28.34376 h 74.87891 L 567.76562,825.14062 893.13375,666.32799 800.95898,413.23633 652.71484,426.99219 574.77148,455.36133 452.38477,540.10742 330,455.36133 252.05664,426.99219 Z m 81.29101,22.23633 74.1211,6.86718 55.40234,20.16407 61.19336,42.38476 61.19531,42.38281 -80.1582,220.58985 67.47656,24.76562 -16.55664,45.48828 L 352.375,817.94922 27.066541,659.15957 100.62891,457.04492 Z m 534.56641,0 84.47265,21.57226 73.56478,202.11463 -325.30892,158.78967 -55.40234,20.16601 -16.55664,-45.48828 67.47852,-24.76562 -80.15821,-220.58985 61.19336,-42.38281 61.19531,-42.38476 55.4004,-20.16407 z"
        style="opacity:1;fill:#89aec8;fill-opacity:1;stroke:#010004;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stop-opacity:1"
        id="path3627" />
   </g>
@@ -264,7 +264,7 @@
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
-         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.01493,51.8946075 -9.0932037,10.528734 -10.0629243,0.0019 0.00519,19.243983 22.042439,0.0062 95.682647,-16.129387 V -3.1954755 L 76.150163,-13.23586 Z"
+         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.01493,51.8946075 -9.0932037,10.528734 -10.0629243,0.0019 0.00519,19.243983 22.042439,0.0062 L 114.17403,68.231732 114.42478,-3.1954755 76.150163,-13.23586 Z"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.300002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect1309"
          inkscape:label="Edge" />
@@ -275,13 +275,6 @@
          id="path1222-5"
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          inkscape:label="Outside screw" />
-      <circle
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         id="circle884"
-         cx="78.890663"
-         cy="63.620098"
-         r="1.27"
-         inkscape:label="Bottom screw" />
       <circle
          r="1.27"
          cy="56.707932"
