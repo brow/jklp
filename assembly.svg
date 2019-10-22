@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86719609"
-     inkscape:cx="510.52262"
-     inkscape:cy="503.50057"
+     inkscape:zoom="0.69526913"
+     inkscape:cx="521.13497"
+     inkscape:cy="496.25032"
      inkscape:document-units="mm"
      inkscape:current-layer="g1017"
      inkscape:document-rotation="0"
@@ -94,7 +94,6 @@
        id="path3627" />
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:label="Plate"
      inkscape:groupmode="layer"
      id="layer1"
@@ -262,7 +261,7 @@
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
-         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.01493,44.2698665 -6.54987,18.153475 -12.606258,0.0019 0.00519,19.243983 22.042439,0.0062 95.682647,-16.129387 V -3.1954755 L 76.150163,-13.23586 Z"
+         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.01493,51.8946075 -9.0932037,10.528734 -10.0629243,0.0019 0.00519,19.243983 22.042439,0.0062 95.682647,-16.129387 V -3.1954755 L 76.150163,-13.23586 Z"
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.300002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect1309" />
       <circle
@@ -273,8 +272,8 @@
          r="1.27" />
       <circle
          r="1.27"
-         cy="55.149212"
-         cx="15.355494"
+         cy="56.707932"
+         cx="14.268028"
          id="circle886"
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
     </g>
