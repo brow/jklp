@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.89952176"
-     inkscape:cx="374.32192"
-     inkscape:cy="569.81459"
+     inkscape:cx="454.36445"
+     inkscape:cy="489.77206"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1017"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="5"
@@ -251,16 +251,8 @@
            x="0.137758"
            y="38.237759" />
       </g>
-      <ellipse
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         id="path1222"
-         cx="77.983681"
-         cy="63.631256"
-         rx="1.5029446"
-         ry="1.5041409" />
-      <ellipse
-         ry="1.5041409"
-         rx="1.5029446"
+      <circle
+         r="1.27"
          cy="0.48323277"
          cx="107.94979"
          id="path1222-5"
@@ -272,6 +264,12 @@
          d="M 282.52734,22.943359 138.53711,60.720703 137.48855,295.584 l -70.970972,0.0137 0.01953,72.40625 82.935552,0.0234 360.00976,-60.68746 V 60.720703 L 365.47266,22.943359 Z"
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect1309" />
+      <circle
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle884"
+         cx="78.890663"
+         cy="63.620098"
+         r="1.27" />
     </g>
     <g
        style="opacity:1;stop-opacity:1"
