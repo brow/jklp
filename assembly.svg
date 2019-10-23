@@ -78,10 +78,10 @@
      fit-margin-top="5"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g118"
+     inkscape:current-layer="layer4"
      inkscape:document-units="mm"
-     inkscape:cy="248.55198"
-     inkscape:cx="336.0777"
+     inkscape:cy="279.83763"
+     inkscape:cx="476.28376"
      inkscape:zoom="0.86301547"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -197,8 +197,9 @@
        transform="translate(-4.1699011,5.644136)" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
-     style="display:inline;opacity:0.536496"
+     style="display:none;opacity:0.536496"
      id="layer4"
      inkscape:label="Masters"
      transform="translate(-0.7160473,-106.04127)">
@@ -219,7 +220,7 @@
          sodipodi:ry="1.27"
          transform="matrix(1.0673046,0,0,1.0673046,-13.409374,-8.2762136)" />
       <path
-         d="m 148.04614,199.76105 c 0,0.7014 -0.5686,1.27 -1.27,1.27 -0.7014,0 -1.27,-0.5686 -1.27,-1.27 0,-0.7014 0.5686,-1.27 1.27,-1.27 0.7014,0 1.27,0.5686 1.27,1.27 z m -43.51349,0 c 0,0.7014 0.5686,1.27 1.27,1.27 0.7014,0 1.27,-0.5686 1.27,-1.27 0,-0.7014 -0.5686,-1.27 -1.27,-1.27 -0.7014,0 -1.27,0.5686 -1.27,1.27 z"
+         d="m 148.04614,199.76105 c 0,0.7014 -0.5686,1.27 -1.27,1.27 -0.7014,0 -1.27,-0.5686 -1.27,-1.27 0,-0.7014 0.5686,-1.27 1.27,-1.27 0.7014,0 1.27,0.5686 1.27,1.27 z m 1518.86326,0 c 0,0.7014 0.5686,1.27 1.27,1.27 0.7014,0 1.27,-0.5686 1.27,-1.27 0,-0.7014 -0.5686,-1.27 -1.27,-1.27 -0.7014,0 -1.27,0.5686 -1.27,1.27 z"
          inkscape:label="Inner"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="circle86"
@@ -232,7 +233,7 @@
          transform="matrix(1.0673046,0,0,1.0673046,-9.7892523,-12.816127)" />
     </g>
     <g
-       style="display:none;opacity:0.541667"
+       style="display:inline;opacity:0.541667"
        inkscape:label="Plate"
        transform="translate(69.565731,136.05309)"
        id="g1017">
