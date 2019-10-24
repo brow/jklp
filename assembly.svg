@@ -19,6 +19,18 @@
      id="defs2938">
     <inkscape:path-effect
        split_items="false"
+       oposite_fuse="true"
+       fuse_paths="true"
+       discard_orig_path="false"
+       mode="vertical"
+       is_visible="true"
+       id="path-effect157"
+       center_point="0,0"
+       end_point="0,0"
+       start_point="0,0"
+       effect="mirror_symmetry" />
+    <inkscape:path-effect
+       split_items="false"
        oposite_fuse="false"
        fuse_paths="false"
        discard_orig_path="false"
@@ -129,7 +141,7 @@
   <sodipodi:namedview
      inkscape:bbox-paths="true"
      inkscape:snap-bbox="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:window-maximized="0"
      inkscape:window-y="23"
      inkscape:window-x="0"
@@ -141,11 +153,11 @@
      fit-margin-top="5"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="330.99228"
-     inkscape:cx="331.38214"
-     inkscape:zoom="0.97196692"
+     inkscape:cy="258.31211"
+     inkscape:cx="404.59122"
+     inkscape:zoom="0.86699795"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -170,14 +182,6 @@
        type="xygrid"
        originx="-61.826284"
        originy="-105.89127" />
-    <sodipodi:guide
-       id="guide234"
-       orientation="0.93966969,0.34208315"
-       position="127.65,88.439097" />
-    <sodipodi:guide
-       id="guide236"
-       orientation="0.93960797,-0.34225263"
-       position="122.35,88.438873" />
   </sodipodi:namedview>
   <metadata
      id="metadata2941">
@@ -192,6 +196,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Internals"
@@ -272,6 +277,21 @@
        x="0" />
   </g>
   <g
+     sodipodi:insensitive="true"
+     inkscape:label="Crystal"
+     id="layer5"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:original-d="M 125,105.41971 150.46503,96.151201 128.86901,36.828999 H 125"
+       inkscape:path-effect="#path-effect157"
+       inkscape:label="Edge"
+       inkscape:connector-curvature="0"
+       id="path155"
+       d="M 125,105.41971 150.46503,96.151201 128.86901,36.828999 H 125 121.13099 L 99.53497,96.151201 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      style="display:none;opacity:0.536496"
      id="layer4"
