@@ -129,7 +129,7 @@
   <sodipodi:namedview
      inkscape:bbox-paths="true"
      inkscape:snap-bbox="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-maximized="0"
      inkscape:window-y="23"
      inkscape:window-x="0"
@@ -141,11 +141,11 @@
      fit-margin-top="5"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-units="mm"
-     inkscape:cy="332.00227"
-     inkscape:cx="415.50494"
-     inkscape:zoom="1.4903694"
+     inkscape:cy="320.47289"
+     inkscape:cx="380.20378"
+     inkscape:zoom="1.0957474"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -207,7 +207,8 @@
        inkscape:label="Polulu A-Star" />
   </g>
   <g
-     style="display:inline;opacity:1"
+     sodipodi:insensitive="true"
+     style="display:none;opacity:1"
      inkscape:label="Frame"
      id="layer3"
      inkscape:groupmode="layer"
@@ -233,6 +234,7 @@
        id="path207" />
   </g>
   <g
+     sodipodi:insensitive="true"
      style="display:inline;opacity:1"
      transform="translate(3.4538538,-111.68541)"
      id="layer1"
@@ -482,9 +484,9 @@
          inkscape:label="Edge"
          id="rect1309"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.300002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.01493,51.8946075 -9.0932037,10.528734 -10.0629243,0.0019 0.00519,19.243983 22.042439,0.0062 38.281895,-10.197417 57.150002,-0.0508 V 10.959098 L 95.124028,-8.0488333 76.150163,-13.23586 Z"
+         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.0029,10.0124693 c -6.2137919,-1.1464064 -6.865551,9.0544462 0.002,8.0563032 l 0.01001,33.825835 -9.0932037,10.528734 -10.0629243,0.0019 0.00519,19.243983 22.042439,0.0062 38.281895,-10.197417 57.150002,-0.0508 V 10.959098 L 95.124028,-8.0488333 76.150163,-13.23586 Z"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccc" />
+         sodipodi:nodetypes="ccccccccccccccc" />
     </g>
   </g>
 </svg>
