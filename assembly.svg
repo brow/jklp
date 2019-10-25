@@ -155,9 +155,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="173.34988"
-     inkscape:cx="388.9998"
-     inkscape:zoom="0.75415274"
+     inkscape:cy="366.8641"
+     inkscape:cx="420.66581"
+     inkscape:zoom="1.4863712"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -201,7 +201,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Internals"
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      transform="translate(1.2046821,-105.98448)">
     <rect
        y="172.79066"
