@@ -18,6 +18,18 @@
   <defs
      id="defs2938">
     <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="129.68123,107.10859"
+       end_point="129.68123,224.4769"
+       center_point="129.68123,165.79274"
+       id="path-effect134"
+       is_visible="true"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false" />
+    <inkscape:path-effect
        split_items="false"
        oposite_fuse="false"
        fuse_paths="false"
@@ -165,11 +177,11 @@
      fit-margin-top="5"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g118"
      inkscape:document-units="mm"
-     inkscape:cy="287.94615"
-     inkscape:cx="483.4695"
-     inkscape:zoom="1.119771"
+     inkscape:cy="245.13661"
+     inkscape:cx="465.77929"
+     inkscape:zoom="1.0157521"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -213,7 +225,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Internals"
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      transform="translate(1.2046821,-105.98448)">
     <rect
        y="172.79066"
@@ -225,6 +237,7 @@
        inkscape:label="Polulu A-Star" />
   </g>
   <g
+     sodipodi:insensitive="true"
      style="display:inline;opacity:1"
      inkscape:label="Frame"
      id="layer3"
@@ -293,7 +306,7 @@
      inkscape:label="Crystal"
      id="layer5"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:original-d="m 125,103.08697 h 6.54783 l 18.9172,-6.935769 -21.59602,-59.322202 H 125"
@@ -315,28 +328,16 @@
        transform="translate(-0.7160473,-106.04127)" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      style="display:none;opacity:0.536496"
      id="layer4"
      inkscape:label="Masters"
-     transform="translate(-0.7160473,-106.04127)"
-     sodipodi:insensitive="true">
+     transform="translate(-0.7160473,-106.04127)">
     <g
        style="display:inline"
-       inkscape:label="Screws"
+       inkscape:label="Outer"
        id="g118">
-      <path
-         d="m 209.69554,124.44553 c 0,0.70141 -0.5686,1.27 -1.27,1.27 -0.7014,0 -1.27,-0.56859 -1.27,-1.27 0,-0.7014 0.5686,-1.27 1.27,-1.27 0.7014,0 1.27,0.5686 1.27,1.27 z m -158.68683,0 c 0,0.70141 0.568599,1.27 1.27,1.27 0.701402,0 1.27,-0.56859 1.27,-1.27 0,-0.7014 -0.568598,-1.27 -1.27,-1.27 -0.701401,0 -1.27,0.5686 -1.27,1.27 z"
-         id="circle886"
-         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         inkscape:label="Outer"
-         inkscape:path-effect="#path-effect88"
-         sodipodi:type="arc"
-         sodipodi:cx="208.42554"
-         sodipodi:cy="124.44553"
-         sodipodi:rx="1.27"
-         sodipodi:ry="1.27"
-         transform="matrix(1.0673046,0,0,1.0673046,-13.409374,-8.2762136)" />
       <g
          inkscape:label="Inner"
          id="g236">
@@ -364,6 +365,31 @@
            sodipodi:rx="1.27"
            sodipodi:ry="1.27"
            transform="matrix(1.0673046,0,0,1.0673046,-25.788904,-56.416615)" />
+      </g>
+      <g
+         id="g139">
+        <path
+           transform="matrix(1.0673046,0,0,1.0673046,-11.341079,52.740276)"
+           sodipodi:ry="1.27"
+           sodipodi:rx="1.27"
+           sodipodi:cy="124.44553"
+           sodipodi:cx="208.42554"
+           sodipodi:type="arc"
+           inkscape:path-effect="#path-effect88"
+           inkscape:label="Outer"
+           style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle886" />
+        <path
+           id="path132"
+           style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.270819;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           inkscape:label="Outer"
+           inkscape:path-effect="#path-effect134"
+           sodipodi:type="arc"
+           sodipodi:cx="208.42554"
+           sodipodi:cy="124.44553"
+           sodipodi:rx="1.27"
+           sodipodi:ry="1.27"
+           transform="matrix(1.0673046,0,0,1.0673046,-13.409374,-8.2762136)" />
       </g>
     </g>
     <g
