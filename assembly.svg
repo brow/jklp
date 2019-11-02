@@ -188,11 +188,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77840575"
-     inkscape:cx="472.86032"
-     inkscape:cy="379.65956"
+     inkscape:zoom="0.5218352"
+     inkscape:cx="434.95583"
+     inkscape:cy="275.78073"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="5"
@@ -616,7 +616,7 @@
        y="0"
        x="0"
        style="display:inline;opacity:1"
-       transform="translate(1.2046821,-105.98448)" />
+       transform="rotate(20,430.89507,155.21632)" />
     <use
        inkscape:label="Upper clone"
        height="100%"
@@ -626,6 +626,22 @@
        y="0"
        x="0"
        style="display:inline;opacity:1"
-       transform="translate(1.2046821,-105.98448)" />
+       transform="rotate(20,392.09936,150.49315)" />
+    <use
+       transform="rotate(180,184.73838,99.802567)"
+       height="100%"
+       width="100%"
+       id="use155"
+       xlink:href="#use145"
+       y="0"
+       x="0" />
+    <use
+       transform="rotate(180,179.40529,62.470049)"
+       height="100%"
+       width="100%"
+       id="use157"
+       xlink:href="#use150"
+       y="0"
+       x="0" />
   </g>
 </svg>
