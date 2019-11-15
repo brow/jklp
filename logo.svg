@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   id="svg1338"
+   version="1.1"
+   viewBox="0 0 197.5 85"
+   height="85mm"
+   width="197.5mm">
+  <defs
+     id="defs1332" />
+  <sodipodi:namedview
+     fit-margin-right="7.5"
+     fit-margin-bottom="7.5"
+     fit-margin-left="7.5"
+     fit-margin-top="7.5"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="855"
+     inkscape:window-width="1440"
+     inkscape:guide-bbox="true"
+     showguides="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g2163"
+     inkscape:document-units="mm"
+     inkscape:cy="-165.49155"
+     inkscape:cx="-40.304859"
+     inkscape:zoom="0.29368949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide1919"
+       orientation="0,1"
+       position="-7.5,62.499999" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide1924"
+       orientation="0,1"
+       position="-7.5,77.499999" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide1926"
+       orientation="0,1"
+       position="-7.5,47.499999" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1335">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-7.5,-27.5)"
+     style="opacity:1"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       inkscape:label="P"
+       id="g2163">
+      <use
+         inkscape:label="Rect"
+         x="0"
+         y="0"
+         xlink:href="#rect1903"
+         id="use1928"
+         width="100%"
+         height="100%"
+         transform="translate(142.5,15.000001)" />
+      <text
+         inkscape:label="Letter"
+         id="text2139"
+         y="97.626282"
+         x="178.04155"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           y="97.626282"
+           x="178.04155"
+           sodipodi:role="line"
+           id="tspan2141">P</tspan></text>
+    </g>
+    <g
+       inkscape:label="L"
+       id="g2158">
+      <use
+         inkscape:label="Rect"
+         transform="translate(95,15.000001)"
+         height="100%"
+         width="100%"
+         id="use1922"
+         xlink:href="#rect1903"
+         y="0"
+         x="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="129.73679"
+         y="97.626282"
+         id="text2135"
+         inkscape:label="Letter"><tspan
+           sodipodi:role="line"
+           id="tspan2133"
+           x="129.73679"
+           y="97.626282"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">L</tspan></text>
+    </g>
+    <g
+       inkscape:label="K"
+       id="g2153">
+      <use
+         inkscape:label="Rect"
+         x="0"
+         y="0"
+         xlink:href="#rect1903"
+         id="use1917"
+         width="100%"
+         height="100%"
+         transform="translate(47.5,-15)" />
+      <text
+         inkscape:label="Letter"
+         id="text2131"
+         y="67.626282"
+         x="82.266426"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           y="67.626282"
+           x="82.266426"
+           id="tspan2129"
+           sodipodi:role="line">K</tspan></text>
+    </g>
+    <g
+       inkscape:label="J"
+       id="g2148">
+      <rect
+         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.270999;stop-color:#000000"
+         id="rect1903"
+         width="40"
+         height="40"
+         x="15"
+         y="50"
+         rx="4"
+         ry="4"
+         inkscape:label="Rect" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.2778px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="36.024918"
+         y="82.402351"
+         id="text1915"
+         inkscape:label="Letter"><tspan
+           sodipodi:role="line"
+           id="tspan1913"
+           x="36.024918"
+           y="82.402351"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">J</tspan></text>
+    </g>
+  </g>
+</svg>
