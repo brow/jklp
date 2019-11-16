@@ -155,7 +155,7 @@
        fuse_paths="false"
        discard_orig_path="false"
        mode="vertical"
-       is_visible="false"
+       is_visible="true"
        id="path-effect88"
        center_point="129.68123,165.79274"
        end_point="129.68123,224.4769"
@@ -299,7 +299,7 @@
      fit-margin-top="5"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g139"
      inkscape:document-units="mm"
      inkscape:cy="242.81095"
      inkscape:cx="724.74193"
@@ -582,7 +582,7 @@
          inkscape:label="Outer"
          id="g139">
         <path
-           d="m 209.69554,124.44553 a 1.27,1.27 0 0 1 -1.27,1.27 1.27,1.27 0 0 1 -1.27,-1.27 1.27,1.27 0 0 1 1.27,-1.27 1.27,1.27 0 0 1 1.27,1.27 z"
+           d="m 209.69554,124.44553 c 0,0.70141 -0.5686,1.27 -1.27,1.27 -0.7014,0 -1.27,-0.56859 -1.27,-1.27 0,-0.7014 0.5686,-1.27 1.27,-1.27 0.7014,0 1.27,0.5686 1.27,1.27 z m -134.834939,0 c 0,0.70141 0.568598,1.27 1.269999,1.27 0.701402,0 1.27,-0.56859 1.27,-1.27 0,-0.7014 -0.568598,-1.27 -1.27,-1.27 -0.701401,0 -1.269999,0.5686 -1.269999,1.27 z"
            transform="matrix(1.2665646,0,0,1.2651117,-54.488318,29.801769)"
            sodipodi:ry="1.27"
            sodipodi:rx="1.27"
