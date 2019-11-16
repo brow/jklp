@@ -32,11 +32,11 @@
      showguides="false"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g2163"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="-165.49155"
-     inkscape:cx="-40.304859"
-     inkscape:zoom="0.29368949"
+     inkscape:cy="388.31505"
+     inkscape:cx="-337.27004"
+     inkscape:zoom="0.21622082"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -84,6 +84,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
+       transform="translate(0,-5.000001)"
        inkscape:label="P"
        id="g2163">
       <use
@@ -109,6 +110,7 @@
            id="tspan2141">P</tspan></text>
     </g>
     <g
+       transform="translate(0,-5.000001)"
        inkscape:label="L"
        id="g2158">
       <use
@@ -134,6 +136,7 @@
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">L</tspan></text>
     </g>
     <g
+       transform="translate(0,5)"
        inkscape:label="K"
        id="g2153">
       <use
