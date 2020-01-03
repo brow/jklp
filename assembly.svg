@@ -297,9 +297,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9176488"
-     inkscape:cx="752.76008"
-     inkscape:cy="296.64737"
+     inkscape:zoom="0.83191611"
+     inkscape:cx="358.19115"
+     inkscape:cy="383.4683"
      inkscape:document-units="mm"
      inkscape:current-layer="g509"
      inkscape:document-rotation="0"
@@ -887,7 +887,7 @@
       <g
          id="g1372"
          inkscape:label="Outer column"
-         transform="translate(28.574687,-14.061566)">
+         transform="translate(28.574687,-19.0312)">
         <rect
            ry="1.27"
            y="57.245872"
@@ -901,7 +901,7 @@
       <g
          id="g1369"
          inkscape:label="Pinky column"
-         transform="translate(0,5.0000678)">
+         transform="translate(0,0.03043642)">
         <rect
            ry="1.27"
            y="38.184238"
@@ -925,7 +925,7 @@
          inkscape:label="Edge"
          id="path238"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.300002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.0029,12.6583026 c -8.056173,-0.5657295 -9.2641781,8.4728079 0.002,8.0563029 l 0.02149,31.81362 C 10.612335,48.595878 4.4426723,52.552859 5.7294551,59.173273 l -15.3971388,0.05649 0.0254,19.243983 22.0217997,0.0062 L 133.20732,59.16758 V 40.01598 L 95.107316,-3.03702 76.150163,-13.23586 Z"
+         d="m 54.105128,-13.23586 -38.269426,10.0403845 0.0029,12.6583026 c -8.056173,-0.5657295 -9.2641781,8.4728079 0.002,8.0563029 l 0.02149,31.81362 C 10.612335,48.595878 4.4426723,52.552859 5.7294551,59.173273 l -15.3971388,0.05649 0.0254,19.243983 22.0217997,0.0062 L 133.20732,54.18918 V 35.03758 L 95.107316,-3.03702 76.150163,-13.23586 Z"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccc" />
       <g
