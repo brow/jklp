@@ -7,7 +7,7 @@
 Its most unusual features are:
 * High angle between halves (20°) that can be changed without rewiring
 * Extreme pinky stagger
-* Glue-less construction
+* Glue-less, PCB-less construction
 
 This repository contains the files you need to make a functioning jklp from scratch, including the case, hand-wiring, and firmware.
 
@@ -35,21 +35,27 @@ The frame creates a cavity for the wiring, contacts, and diodes. It can be of an
 
 ### Plates
 
-The plates hold key switches firmly in place. They are actually made of two layers:
-* A 1/16" acrylic layer that ALPS-style switches "click" snugly into. This avoids the need to glue switches into place as people often do when hand-wiring.
-* A 2 mm acrylic layer to add rigidity.
-
 ![diagram of plates](https://user-images.githubusercontent.com/238331/74682100-ba3b3300-518a-11ea-9568-aab6cd259947.png)
+
+The plates hold the switches firmly in place, eliminating the need for a PCB or hot glue. They are each made of two layers:
+* A 1/16" acrylic layer that ALPS-style switches "click" snugly into.
+* Another, thicker layer to add rigidity.
 
 ### Crystal
 
 ![diagram of crystal](https://user-images.githubusercontent.com/238331/74682170-ed7dc200-518a-11ea-9cc5-e79c02d5a6ec.png)
 
-The crystal is an optional shield over the controller (not shown in the photo at top) that also adds strength to the keyboard. Like the base, this piece needs to be replaced in order to change the split angle, and the included one is for 20°.
+The crystal is an optional shield over the controller (not shown in the photo at top). Like the base, this piece needs to be replaced in order to change the split angle, and the included one is for a 20° angle.
 
 ## Wiring
 
+TODO
+
 ## Firmware
+
+TODO
+
+## Glossary
 
 * "40%" means it has about 40% as many keys as full-sized board. Typing a given character sometimes requires pressing a combination of keys.
 * "Unsplit" means it resembles a split keyboard in that has a distinct half for each hand, and the halves are angled inward to match the angle of your resting forearms. But it's unsplit because the two halves are joined together.
