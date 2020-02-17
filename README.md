@@ -11,7 +11,7 @@ Its most unusual features are:
 
 This repository contains the files you need to make a functioning jklp from scratch, including the case, hand-wiring, and firmware.
 
-The design requires ALPS switches and a Pololu A-Star controller.
+The design requires ALPS-style switches and a Pololu A-Star controller.
 
 ## Case
 
@@ -23,7 +23,7 @@ The case is a stack of laser-cut layers fastened together by bolts.
 
 ![diagram of base](https://user-images.githubusercontent.com/238331/74681918-35501980-518a-11ea-973c-642ae579af5a.png)
 
-The base is single piece that holds the halves of the keyboard together and fixes their angle with respect to one another. It can be of any thickness or material. I used 1/8" plywood.
+The base is single piece that holds the halves of the keyboard together and fixes their angle with respect to one another. It can be of any thickness or material. I used 1/4" plywood.
 
 The base included in `case.svg` fixes an angle of 20°, but you can make your own base with a different angle and swap it in anytime, even after wiring.
 
@@ -31,13 +31,21 @@ The base included in `case.svg` fixes an angle of 20°, but you can make your ow
 
 ![diagram of base](https://user-images.githubusercontent.com/238331/74682049-94159300-518a-11ea-898a-348a0ce69fe8.png)
 
+The frame creates a cavity for the wiring, contacts, and diodes. It can be of any material but should be at least 5 mm thick.
+
 ### Plates
+
+The plates hold key switches firmly in place. They are actually made of two layers:
+* A 1/16" acrylic layer that ALPS-style switches "click" snugly into. This avoids the need to glue switches into place as people often do when hand-wiring.
+* A 2 mm acrylic layer to add rigidity.
 
 ![diagram of plates](https://user-images.githubusercontent.com/238331/74682100-ba3b3300-518a-11ea-9568-aab6cd259947.png)
 
 ### Crystal
 
 ![diagram of crystal](https://user-images.githubusercontent.com/238331/74682170-ed7dc200-518a-11ea-9cc5-e79c02d5a6ec.png)
+
+The crystal is an optional shield over the controller (not shown in the photo at top) that also adds strength to the keyboard. Like the base, this piece needs to be replaced in order to change the split angle, and the included one is for 20°.
 
 ## Wiring
 
