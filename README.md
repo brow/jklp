@@ -27,11 +27,17 @@ The base is single piece that holds the halves of the keyboard together and fixe
 
 The base included in `case.svg` fixes an angle of 20°, but you can make your own base with a different angle and swap it in anytime, even after wiring.
 
-### Spacers
+### Frame
+
+![diagram of base](https://user-images.githubusercontent.com/238331/74682049-94159300-518a-11ea-898a-348a0ce69fe8.png)
 
 ### Plates
 
+![diagram of plates](https://user-images.githubusercontent.com/238331/74682100-ba3b3300-518a-11ea-9568-aab6cd259947.png)
+
 ### Crystal
+
+![diagram of crystal](https://user-images.githubusercontent.com/238331/74682170-ed7dc200-518a-11ea-9cc5-e79c02d5a6ec.png)
 
 ## Wiring
 
