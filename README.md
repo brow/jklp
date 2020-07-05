@@ -58,6 +58,8 @@ If you don't understand what that means or need help with wiring technique, the 
 
 To play with the layout or redesign the key matrix from scratch, start by opening up `layout.json` in the [Keyboard Layout Editor].
 
+![animated blinking controller](https://user-images.githubusercontent.com/238331/86539735-9cb20000-bec4-11ea-9028-98b84af8b08a.GIF)
+
 [Keyboard Firmware Builder]: https://kbfirmware.com
 [Keyboard Layout Editor]: http://www.keyboard-layout-editor.com
 [QMK Hand Wiring Guide]: https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire
