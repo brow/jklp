@@ -1,6 +1,6 @@
 # jklp
 
-![photo of jklp](https://user-images.githubusercontent.com/238331/74573434-43155d00-4f46-11ea-8c16-44160e10b993.JPG)
+![photo of keyboard](https://user-images.githubusercontent.com/238331/86539100-b0a73300-bebf-11ea-84c8-a45621be50af.png)
 
 **jklp** (pronounced like "jökulhlaup") is an ergonomic keyboard with just 36 keys. It's designed around the natural resting position of your hands.
 
