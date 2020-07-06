@@ -1,7 +1,5 @@
 # jklp
 
-![photo of keyboard](https://user-images.githubusercontent.com/238331/86539100-b0a73300-bebf-11ea-84c8-a45621be50af.png)
-
 **jklp** (pronounced like "jökulhlaup") is an ergonomic keyboard with just 36 keys. It's designed around the natural resting position of your hands.
 
 Compared to other minimal ergonomic keyboards, its unusual features are:
@@ -11,6 +9,10 @@ Compared to other minimal ergonomic keyboards, its unusual features are:
 This repository contains the files you need to make a functioning jklp from scratch, including the case, wiring, and firmware.
 
 The design requires ALPS-style switches and a Pololu A-Star controller. You won't need a PCB or hot glue.
+
+![photo of jklp keyboard](https://user-images.githubusercontent.com/238331/86539100-b0a73300-bebf-11ea-84c8-a45621be50af.png)
+
+_jklp including parts from an Apple Extended Keyboard II_.
 
 ## Case
 
